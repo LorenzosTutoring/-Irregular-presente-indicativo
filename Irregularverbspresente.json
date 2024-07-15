@@ -1,0 +1,1754 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (venire) a casa tua ogni domenica.",
+        "answer": "vengo",
+        "translation": "I come to your house every Sunday.",
+        "audio": "1_Io_vengo_a_casa_tua_ogni_domenica.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Tu {input} (essere) un ottimo amico.",
+        "answer": "sei",
+        "translation": "You are a great friend.",
+        "audio": "2_Tu_sei_un_ottimo_amico.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Lui {input} (avere) molti interessi.",
+        "answer": "ha",
+        "translation": "He has many interests.",
+        "audio": "3_Lui_ha_molti_interessi.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Lei {input} (essere) molto intelligente.",
+        "answer": "è",
+        "translation": "She is very intelligent.",
+        "audio": "4_Lei_è_molto_intelligente.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Noi {input} (avere) una gatta.",
+        "answer": "abbiamo",
+        "translation": "We have a cat.",
+        "audio": "5_Noi_abbiamo_una_gatta.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Voi {input} (essere) molto simpatici.",
+        "answer": "siete",
+        "translation": "You all are very nice.",
+        "audio": "6_Voi_siete_molto_simpatici.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Loro {input} (avere) una grande casa.",
+        "answer": "hanno",
+        "translation": "They have a big house.",
+        "audio": "7_Loro_hanno_una_grande_casa.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Io {input} (andare) al parco ogni mattina.",
+        "answer": "vado",
+        "translation": "I go to the park every morning.",
+        "audio": "8_Io_vado_al_parco_ogni_mattina.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Tu {input} (fare) un ottimo lavoro.",
+        "answer": "fai",
+        "translation": "You do a great job.",
+        "audio": "9_Tu_fai_un_ottimo_lavoro.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Lui {input} (dire) sempre la verità.",
+        "answer": "dice",
+        "translation": "He always tells the truth.",
+        "audio": "10_Lui_dice_sempre_la_verità.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Lei {input} (sapere) molte cose.",
+        "answer": "sa",
+        "translation": "She knows many things.",
+        "audio": "11_Lei_sa_molte_cose.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Noi {input} (dare) una mano ai vicini.",
+        "answer": "diamo",
+        "translation": "We help the neighbors.",
+        "audio": "12_Noi_diamo_una_mano_ai_vicini.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Voi {input} (venire) sempre in orario.",
+        "answer": "venite",
+        "translation": "You all always come on time.",
+        "audio": "13_Voi_venite_sempre_in_orario.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Loro {input} (fare) molto rumore.",
+        "answer": "fanno",
+        "translation": "They make a lot of noise.",
+        "audio": "14_Loro_fanno_molto_rumore.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Io {input} (bere) solo acqua.",
+        "answer": "bevo",
+        "translation": "I drink only water.",
+        "audio": "15_Io_bevo_solo_acqua.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Tu {input} (venire) spesso qui.",
+        "answer": "vieni",
+        "translation": "You come here often.",
+        "audio": "16_Tu_vieni_spesso_qui.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Lui {input} (vedere) il futuro.",
+        "answer": "vede",
+        "translation": "He sees the future.",
+        "audio": "17_Lui_vede_il_futuro.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Lei {input} (volere) un cane.",
+        "answer": "vuole",
+        "translation": "She wants a dog.",
+        "audio": "18_Lei_vuole_un_cane.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Noi {input} (sapere) la strada.",
+        "answer": "sappiamo",
+        "translation": "We know the way.",
+        "audio": "19_Noi_sappiamo_la_strada.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Voi {input} (dire) sempre la verità.",
+        "answer": "dite",
+        "translation": "You all always tell the truth.",
+        "audio": "20_Voi_dite_sempre_la_verità.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Loro {input} (venire) spesso a trovarci.",
+        "answer": "vengono",
+        "translation": "They often come to visit us.",
+        "audio": "21_Loro_vengono_spesso_a_trovarci.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Io {input} (leggere) molti libri.",
+        "answer": "leggo",
+        "translation": "I read many books.",
+        "audio": "22_Io_leggo_molti_libri.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Tu {input} (scrivere) bene.",
+        "answer": "scrivi",
+        "translation": "You write well.",
+        "audio": "23_Tu_scrivi_bene.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Lui {input} (dare) buoni consigli.",
+        "answer": "dà",
+        "translation": "He gives good advice.",
+        "audio": "24_Lui_dà_buoni_consigli.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Lei {input} (vedere) il mare dalla finestra.",
+        "answer": "vede",
+        "translation": "She sees the sea from the window.",
+        "audio": "25_Lei_vede_il_mare_dalla_finestra.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Noi {input} (andare) al cinema ogni sabato.",
+        "answer": "andiamo",
+        "translation": "We go to the cinema every Saturday.",
+        "audio": "26_Noi_andiamo_al_cinema_ogni_sabato.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Voi {input} (bere) molto caffè.",
+        "answer": "bevete",
+        "translation": "You all drink a lot of coffee.",
+        "audio": "27_Voi_bevete_molto_caffè.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Loro {input} (fare) sport tutti i giorni.",
+        "answer": "fanno",
+        "translation": "They do sports every day.",
+        "audio": "28_Loro_fanno_sport_tutti_i_giorni.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Io {input} (volere) imparare a suonare il piano.",
+        "answer": "voglio",
+        "translation": "I want to learn to play the piano.",
+        "audio": "29_Io_voglio_imparare_a_suonare_il_piano.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Tu {input} (sapere) cucinare bene.",
+        "answer": "sai",
+        "translation": "You know how to cook well.",
+        "audio": "30_Tu_sai_cucinare_bene.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Lui {input} (venire) sempre in ritardo.",
+        "answer": "viene",
+        "translation": "He always comes late.",
+        "audio": "31_Lui_viene_sempre_in_ritardo.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Lei {input} (fare) una torta ogni settimana.",
+        "answer": "fa",
+        "translation": "She makes a cake every week.",
+        "audio": "32_Lei_fa_una_torta_ogni_settimana.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Noi {input} (andare) in vacanza in estate.",
+        "answer": "andiamo",
+        "translation": "We go on vacation in the summer.",
+        "audio": "33_Noi_andiamo_in_vacanza_in_estate.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Voi {input} (leggere) il giornale ogni mattina.",
+        "answer": "leggete",
+        "translation": "You all read the newspaper every morning.",
+        "audio": "34_Voi_leggete_il_giornale_ogni_mattina.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Loro {input} (vedere) spesso i loro amici.",
+        "answer": "vedono",
+        "translation": "They often see their friends.",
+        "audio": "35_Loro_vedono_spesso_i_loro_amici.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Io {input} (potere) aiutarti con i compiti.",
+        "answer": "posso",
+        "translation": "I can help you with your homework.",
+        "audio": "36_Io_posso_aiutarti_con_i_compiti.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Tu {input} (bere) solo tè.",
+        "answer": "bevi",
+        "translation": "You only drink tea.",
+        "audio": "37_Tu_bevi_solo_tè.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Lui {input} (dire) che è difficile.",
+        "answer": "dice",
+        "translation": "He says it's difficult.",
+        "audio": "38_Lui_dice_che_è_difficile.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Lei {input} (volere) visitare Parigi.",
+        "answer": "vuole",
+        "translation": "She wants to visit Paris.",
+        "audio": "39_Lei_vuole_visitare_Parigi.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Noi {input} (dare) regali a Natale.",
+        "answer": "diamo",
+        "translation": "We give gifts at Christmas.",
+        "audio": "40_Noi_diamo_regali_a_Natale.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Voi {input} (sapere) parlare molte lingue.",
+        "answer": "sapete",
+        "translation": "You all know how to speak many languages.",
+        "audio": "41_Voi_sapete_parlare_molte_lingue.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Loro {input} (dire) che è importante.",
+        "answer": "dicono",
+        "translation": "They say it's important.",
+        "audio": "42_Loro_dicono_che_è_importante.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Io {input} (andare) a letto presto.",
+        "answer": "vado",
+        "translation": "I go to bed early.",
+        "audio": "43_Io_vado_a_letto_presto.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Tu {input} (leggere) molti romanzi.",
+        "answer": "leggi",
+        "translation": "You read many novels.",
+        "audio": "44_Tu_leggi_molti_romanzi.mp3"
+    },
+    {
+        "id": 45,
+        "prompt": "Lui {input} (scrivere) poesie meravigliose.",
+        "answer": "scrive",
+        "translation": "He writes wonderful poems.",
+        "audio": "45_Lui_scrive_poesie_meravigliose.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Lei {input} (venire) da una grande città.",
+        "answer": "viene",
+        "translation": "She comes from a big city.",
+        "audio": "46_Lei_viene_da_una_grande_città.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Noi {input} (sapere) come fare.",
+        "answer": "sappiamo",
+        "translation": "We know how to do it.",
+        "audio": "47_Noi_sappiamo_come_fare.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Voi {input} (fare) una bella festa.",
+        "answer": "fate",
+        "translation": "You all have a nice party.",
+        "audio": "48_Voi_fate_una_bella_festa.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Loro {input} (bere) vino rosso.",
+        "answer": "bevono",
+        "translation": "They drink red wine.",
+        "audio": "49_Loro_bevono_vino_rosso.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Io {input} (volere) vedere un film.",
+        "answer": "voglio",
+        "translation": "I want to watch a movie.",
+        "audio": "50_Io_voglio_vedere_un_film.mp3"
+    },
+    {
+        "id": 51,
+        "prompt": "Tu {input} (venire) sempre con noi.",
+        "answer": "vieni",
+        "translation": "You always come with us.",
+        "audio": "51_Tu_vieni_sempre_con_noi.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Lui {input} (sapere) suonare la chitarra.",
+        "answer": "sa",
+        "translation": "He knows how to play the guitar.",
+        "audio": "52_Lui_sa_suonare_la_chitarra.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Lei {input} (dare) lezioni di inglese.",
+        "answer": "dà",
+        "translation": "She gives English lessons.",
+        "audio": "53_Lei_dà_lezioni_di_inglese.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Noi {input} (vedere) spesso le stelle.",
+        "answer": "vediamo",
+        "translation": "We often see the stars.",
+        "audio": "54_Noi_vediamo_spesso_le_stelle.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Voi {input} (andare) in palestra ogni giorno.",
+        "answer": "andate",
+        "translation": "You all go to the gym every day.",
+        "audio": "55_Voi_andate_in_palestra_ogni_giorno.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Loro {input} (leggere) libri di avventura.",
+        "answer": "leggono",
+        "translation": "They read adventure books.",
+        "audio": "56_Loro_leggono_libri_di_avventura.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Io {input} (potere) venire con te.",
+        "answer": "posso",
+        "translation": "I can come with you.",
+        "audio": "57_Io_posso_venire_con_te.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Tu {input} (bere) succo d'arancia.",
+        "answer": "bevi",
+        "translation": "You drink orange juice.",
+        "audio": "58_Tu_bevi_succo_d'arancia.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Lui {input} (dire) che è felice.",
+        "answer": "dice",
+        "translation": "He says he is happy.",
+        "audio": "59_Lui_dice_che_è_felice.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Lei {input} (volere) imparare a nuotare.",
+        "answer": "vuole",
+        "translation": "She wants to learn to swim.",
+        "audio": "60_Lei_vuole_imparare_a_nuotare.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Noi {input} (dare) una festa sabato.",
+        "answer": "diamo",
+        "translation": "We give a party on Saturday.",
+        "audio": "61_Noi_diamo_una_festa_sabato.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Voi {input} (sapere) cucinare bene.",
+        "answer": "sapete",
+        "translation": "You all know how to cook well.",
+        "audio": "62_Voi_sapete_cucinare_bene.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Loro {input} (dire) che è una buona idea.",
+        "answer": "dicono",
+        "translation": "They say it's a good idea.",
+        "audio": "63_Loro_dicono_che_è_una_buona_idea.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Io {input} (andare) al lavoro in macchina.",
+        "answer": "vado",
+        "translation": "I go to work by car.",
+        "audio": "64_Io_vado_al_lavoro_in_macchina.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Tu {input} (leggere) sempre il giornale.",
+        "answer": "leggi",
+        "translation": "You always read the newspaper.",
+        "audio": "65_Tu_leggi_sempre_il_giornale.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Lui {input} (scrivere) un libro.",
+        "answer": "scrive",
+        "translation": "He writes a book.",
+        "audio": "66_Lui_scrive_un_libro.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Lei {input} (venire) a trovarci spesso.",
+        "answer": "viene",
+        "translation": "She comes to visit us often.",
+        "audio": "67_Lei_viene_a_trovarci_spesso.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Noi {input} (sapere) cosa fare.",
+        "answer": "sappiamo",
+        "translation": "We know what to do.",
+        "audio": "68_Noi_sappiamo_cosa_fare.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Voi {input} (fare) una torta ogni settimana.",
+        "answer": "fate",
+        "translation": "You all make a cake every week.",
+        "audio": "69_Voi_fate_una_torta_ogni_settimana.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Loro {input} (bere) solo acqua minerale.",
+        "answer": "bevono",
+        "translation": "They drink only mineral water.",
+        "audio": "70_Loro_bevono_solo_acqua_minerale.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Io {input} (volere) imparare a ballare.",
+        "answer": "voglio",
+        "translation": "I want to learn to dance.",
+        "audio": "71_Io_voglio_imparare_a_ballare.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Tu {input} (sapere) parlare spagnolo.",
+        "answer": "sai",
+        "translation": "You know how to speak Spanish.",
+        "audio": "72_Tu_sai_parlare_spagnolo.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Lui {input} (venire) in bicicletta.",
+        "answer": "viene",
+        "translation": "He comes by bicycle.",
+        "audio": "73_Lui_viene_in_bicicletta.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Lei {input} (fare) ginnastica ogni mattina.",
+        "answer": "fa",
+        "translation": "She does gymnastics every morning.",
+        "audio": "74_Lei_fa_ginnastica_ogni_mattina.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Noi {input} (dare) regali ai bambini.",
+        "answer": "diamo",
+        "translation": "We give gifts to the children.",
+        "audio": "75_Noi_diamo_regali_ai_bambini.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Voi {input} (bere) molto latte.",
+        "answer": "bevete",
+        "translation": "You all drink a lot of milk.",
+        "audio": "76_Voi_bevete_molto_latte.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Loro {input} (vedere) il tramonto.",
+        "answer": "vedono",
+        "translation": "They see the sunset.",
+        "audio": "77_Loro_vedono_il_tramonto.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Io {input} (volere) visitare Roma.",
+        "answer": "voglio",
+        "translation": "I want to visit Rome.",
+        "audio": "78_Io_voglio_visitare_Roma.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Tu {input} (leggere) sempre libri interessanti.",
+        "answer": "leggi",
+        "translation": "You always read interesting books.",
+        "audio": "79_Tu_leggi_sempre_libri_interessanti.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Lui {input} (sapere) fare molte cose.",
+        "answer": "sa",
+        "translation": "He knows how to do many things.",
+        "audio": "80_Lui_sa_fare_molte_cose.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Lei {input} (dare) sempre ottimi consigli.",
+        "answer": "dà",
+        "translation": "She always gives excellent advice.",
+        "audio": "81_Lei_dà_sempre_ottimi_consigli.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Noi {input} (fare) una passeggiata.",
+        "answer": "facciamo",
+        "translation": "We take a walk.",
+        "audio": "82_Noi_facciamo_una_passeggiata.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Voi {input} (sapere) sempre la risposta.",
+        "answer": "sapete",
+        "translation": "You all always know the answer.",
+        "audio": "83_Voi_sapete_sempre_la_risposta.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Loro {input} (dire) che è vero.",
+        "answer": "dicono",
+        "translation": "They say it's true.",
+        "audio": "84_Loro_dicono_che_è_vero.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Io {input} (andare) al mercato.",
+        "answer": "vado",
+        "translation": "I go to the market.",
+        "audio": "85_Io_vado_al_mercato.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Tu {input} (venire) a casa mia.",
+        "answer": "vieni",
+        "translation": "You come to my house.",
+        "audio": "86_Tu_vieni_a_casa_mia.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Lui {input} (sapere) cucinare molto bene.",
+        "answer": "sa",
+        "translation": "He knows how to cook very well.",
+        "audio": "87_Lui_sa_cucinare_molto_bene.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Lei {input} (volere) fare una torta.",
+        "answer": "vuole",
+        "translation": "She wants to make a cake.",
+        "audio": "88_Lei_vuole_fare_una_torta.mp3"
+    },
+    {
+        "id": 89,
+        "prompt": "Noi {input} (dare) una mano ai vicini.",
+        "answer": "diamo",
+        "translation": "We help the neighbors.",
+        "audio": "89_Noi_diamo_una_mano_ai_vicini.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Voi {input} (leggere) molte riviste.",
+        "answer": "leggete",
+        "translation": "You all read many magazines.",
+        "audio": "90_Voi_leggete_molte_riviste.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Loro {input} (fare) una festa.",
+        "answer": "fanno",
+        "translation": "They have a party.",
+        "audio": "91_Loro_fanno_una_festa.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Io {input} (potere) suonare il violino.",
+        "answer": "posso",
+        "translation": "I can play the violin.",
+        "audio": "92_Io_posso_suonare_il_violino.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Tu {input} (bere) sempre caffè.",
+        "answer": "bevi",
+        "translation": "You always drink coffee.",
+        "audio": "93_Tu_bevi_sempre_caffè.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Lui {input} (dire) che è stanco.",
+        "answer": "dice",
+        "translation": "He says he is tired.",
+        "audio": "94_Lui_dice_che_è_stanco.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Lei {input} (volere) un nuovo lavoro.",
+        "answer": "vuole",
+        "translation": "She wants a new job.",
+        "audio": "95_Lei_vuole_un_nuovo_lavoro.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Noi {input} (sapere) dove andare.",
+        "answer": "sappiamo",
+        "translation": "We know where to go.",
+        "audio": "96_Noi_sappiamo_dove_andare.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Voi {input} (fare) sport ogni giorno.",
+        "answer": "fate",
+        "translation": "You all do sports every day.",
+        "audio": "97_Voi_fate_sport_ogni_giorno.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Loro {input} (bere) birra.",
+        "answer": "bevono",
+        "translation": "They drink beer.",
+        "audio": "98_Loro_bevono_birra.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Io {input} (andare) a correre.",
+        "answer": "vado",
+        "translation": "I go running.",
+        "audio": "99_Io_vado_a_correre.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Tu {input} (leggere) il giornale ogni sera.",
+        "answer": "leggi",
+        "translation": "You read the newspaper every evening.",
+        "audio": "100_Tu_leggi_il_giornale_ogni_sera.mp3"
+    },
+
+    {
+        "id": 101,
+        "prompt": "Io {input} (venire) da una famiglia grande.",
+        "answer": "vengo",
+        "translation": "I come from a big family.",
+        "audio": "101_Io_vengo_da_una_famiglia_grande.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Tu {input} (essere) molto generoso.",
+        "answer": "sei",
+        "translation": "You are very generous.",
+        "audio": "102_Tu_sei_molto_generoso.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Lui {input} (avere) una moto nuova.",
+        "answer": "ha",
+        "translation": "He has a new motorcycle.",
+        "audio": "103_Lui_ha_una_moto_nuova.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Lei {input} (essere) molto creativa.",
+        "answer": "è",
+        "translation": "She is very creative.",
+        "audio": "104_Lei_è_molto_creativa.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Noi {input} (avere) un giardino.",
+        "answer": "abbiamo",
+        "translation": "We have a garden.",
+        "audio": "105_Noi_abbiamo_un_giardino.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Voi {input} (essere) sempre di buon umore.",
+        "answer": "siete",
+        "translation": "You all are always in a good mood.",
+        "audio": "106_Voi_siete_sempre_di_buon_umore.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Loro {input} (avere) una barca.",
+        "answer": "hanno",
+        "translation": "They have a boat.",
+        "audio": "107_Loro_hanno_una_barca.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Io {input} (andare) a scuola a piedi.",
+        "answer": "vado",
+        "translation": "I go to school on foot.",
+        "audio": "108_Io_vado_a_scuola_a_piedi.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Tu {input} (fare) del tuo meglio.",
+        "answer": "fai",
+        "translation": "You do your best.",
+        "audio": "109_Tu_fai_del_tuo_meglio.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Lui {input} (dire) sempre qualcosa di interessante.",
+        "answer": "dice",
+        "translation": "He always says something interesting.",
+        "audio": "110_Lui_dice_sempre_qualcosa_di_interessante.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Lei {input} (sapere) parlare molte lingue.",
+        "answer": "sa",
+        "translation": "She knows how to speak many languages.",
+        "audio": "111_Lei_sa_parlare_molte_lingue.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Noi {input} (dare) consigli utili.",
+        "answer": "diamo",
+        "translation": "We give useful advice.",
+        "audio": "112_Noi_diamo_consigli_utili.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Voi {input} (venire) spesso a trovarci.",
+        "answer": "venite",
+        "translation": "You all often come to visit us.",
+        "audio": "113_Voi_venite_spesso_a_trovarci.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Loro {input} (fare) lezione ogni giorno.",
+        "answer": "fanno",
+        "translation": "They have class every day.",
+        "audio": "114_Loro_fanno_lezione_ogni_giorno.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Io {input} (bere) un bicchiere di vino.",
+        "answer": "bevo",
+        "translation": "I drink a glass of wine.",
+        "audio": "115_Io_bevo_un_bicchiere_di_vino.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Tu {input} (venire) da una città lontana.",
+        "answer": "vieni",
+        "translation": "You come from a distant city.",
+        "audio": "116_Tu_vieni_da_una_città_lontana.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Lui {input} (vedere) tutto chiaramente.",
+        "answer": "vede",
+        "translation": "He sees everything clearly.",
+        "audio": "117_Lui_vede_tutto_chiaramente.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Lei {input} (volere) una nuova borsa.",
+        "answer": "vuole",
+        "translation": "She wants a new bag.",
+        "audio": "118_Lei_vuole_una_nuova_borsa.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Noi {input} (sapere) come risolvere il problema.",
+        "answer": "sappiamo",
+        "translation": "We know how to solve the problem.",
+        "audio": "119_Noi_sappiamo_come_risolvere_il_problema.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Voi {input} (dire) sempre cose interessanti.",
+        "answer": "dite",
+        "translation": "You all always say interesting things.",
+        "audio": "120_Voi_dite_sempre_cose_interessanti.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Loro {input} (venire) ogni estate.",
+        "answer": "vengono",
+        "translation": "They come every summer.",
+        "audio": "121_Loro_vengono_ogni_estate.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Io {input} (leggere) articoli di giornale.",
+        "answer": "leggo",
+        "translation": "I read newspaper articles.",
+        "audio": "122_Io_leggo_articoli_di_giornale.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Tu {input} (scrivere) molto bene.",
+        "answer": "scrivi",
+        "translation": "You write very well.",
+        "audio": "123_Tu_scrivi_molto_bene.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Lui {input} (dare) sempre il buon esempio.",
+        "answer": "dà",
+        "translation": "He always sets a good example.",
+        "audio": "124_Lui_dà_sempre_il_buon_esempio.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Lei {input} (vedere) un futuro luminoso.",
+        "answer": "vede",
+        "translation": "She sees a bright future.",
+        "audio": "125_Lei_vede_un_futuro_luminoso.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Noi {input} (andare) al mare ogni estate.",
+        "answer": "andiamo",
+        "translation": "We go to the sea every summer.",
+        "audio": "126_Noi_andiamo_al_mare_ogni_estate.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Voi {input} (bere) tè freddo.",
+        "answer": "bevete",
+        "translation": "You all drink iced tea.",
+        "audio": "127_Voi_bevete_tè_freddo.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Loro {input} (fare) lavori manuali.",
+        "answer": "fanno",
+        "translation": "They do manual work.",
+        "audio": "128_Loro_fanno_lavori_manuali.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Io {input} (volere) imparare a dipingere.",
+        "answer": "voglio",
+        "translation": "I want to learn to paint.",
+        "audio": "129_Io_voglio_imparare_a_dipingere.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Tu {input} (sapere) sempre cosa fare.",
+        "answer": "sai",
+        "translation": "You always know what to do.",
+        "audio": "130_Tu_sai_sempre_cosa_fare.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Lui {input} (venire) dalla campagna.",
+        "answer": "viene",
+        "translation": "He comes from the countryside.",
+        "audio": "131_Lui_viene_dalla_campagna.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Lei {input} (fare) yoga ogni mattina.",
+        "answer": "fa",
+        "translation": "She does yoga every morning.",
+        "audio": "132_Lei_fa_yoga_ogni_mattina.mp3"
+    },
+    {
+        "id": 133,
+        "prompt": "Noi {input} (andare) in centro città.",
+        "answer": "andiamo",
+        "translation": "We go to the city center.",
+        "audio": "133_Noi_andiamo_in_centro_città.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Voi {input} (leggere) il libro con attenzione.",
+        "answer": "leggete",
+        "translation": "You all read the book carefully.",
+        "audio": "134_Voi_leggete_il_libro_con_attenzione.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Loro {input} (vedere) un'opportunità.",
+        "answer": "vedono",
+        "translation": "They see an opportunity.",
+        "audio": "135_Loro_vedono_un'opportunità.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Io {input} (potere) aiutarti con il trasloco.",
+        "answer": "posso",
+        "translation": "I can help you with the move.",
+        "audio": "136_Io_posso_aiutarti_con_il_trasloco.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Tu {input} (bere) molta acqua.",
+        "answer": "bevi",
+        "translation": "You drink a lot of water.",
+        "audio": "137_Tu_bevi_molta_acqua.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Lui {input} (dire) che è importante ascoltare.",
+        "answer": "dice",
+        "translation": "He says it's important to listen.",
+        "audio": "138_Lui_dice_che_è_importante_ascoltare.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Lei {input} (volere) andare a fare shopping.",
+        "answer": "vuole",
+        "translation": "She wants to go shopping.",
+        "audio": "139_Lei_vuole_andare_a_fare_shopping.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Noi {input} (dare) una festa di compleanno.",
+        "answer": "diamo",
+        "translation": "We give a birthday party.",
+        "audio": "140_Noi_diamo_una_festa_di_compleanno.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Voi {input} (sapere) tutto quello che succede.",
+        "answer": "sapete",
+        "translation": "You all know everything that happens.",
+        "audio": "141_Voi_sapete_tutto_quello_che_succede.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Loro {input} (dire) che è una buona idea.",
+        "answer": "dicono",
+        "translation": "They say it's a good idea.",
+        "audio": "142_Loro_dicono_che_è_una_buona_idea.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Io {input} (andare) a fare jogging.",
+        "answer": "vado",
+        "translation": "I go jogging.",
+        "audio": "143_Io_vado_a_fare_jogging.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Tu {input} (leggere) molte riviste.",
+        "answer": "leggi",
+        "translation": "You read many magazines.",
+        "audio": "144_Tu_leggi_molte_riviste.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Lui {input} (scrivere) un romanzo.",
+        "answer": "scrive",
+        "translation": "He writes a novel.",
+        "audio": "145_Lui_scrive_un_romanzo.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Lei {input} (venire) con noi in vacanza.",
+        "answer": "viene",
+        "translation": "She comes with us on vacation.",
+        "audio": "146_Lei_viene_con_noi_in_vacanza.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Noi {input} (sapere) dove trovare le informazioni.",
+        "answer": "sappiamo",
+        "translation": "We know where to find the information.",
+        "audio": "147_Noi_sappiamo_dove_trovare_le_informazioni.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Voi {input} (fare) sempre nuove amicizie.",
+        "answer": "fate",
+        "translation": "You all always make new friends.",
+        "audio": "148_Voi_fate_sempre_nuove_amicizie.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Loro {input} (bere) succo di frutta.",
+        "answer": "bevono",
+        "translation": "They drink fruit juice.",
+        "audio": "149_Loro_bevono_succo_di_frutta.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Io {input} (volere) imparare a cucinare.",
+        "answer": "voglio",
+        "translation": "I want to learn to cook.",
+        "audio": "150_Io_voglio_imparare_a_cucinare.mp3"
+    },
+    {
+        "id": 151,
+        "prompt": "Tu {input} (venire) sempre al lavoro puntuale.",
+        "answer": "vieni",
+        "translation": "You always come to work on time.",
+        "audio": "151_Tu_vieni_sempre_al_lavoro_puntuale.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Lui {input} (sapere) risolvere i problemi velocemente.",
+        "answer": "sa",
+        "translation": "He knows how to solve problems quickly.",
+        "audio": "152_Lui_sa_risolvere_i_problemi_velocemente.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Lei {input} (dare) sempre una mano a chi ne ha bisogno.",
+        "answer": "dà",
+        "translation": "She always helps those in need.",
+        "audio": "153_Lei_dà_sempre_una_mano_a_chi_ne_ha_bisogno.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Noi {input} (vedere) spesso i nostri vicini.",
+        "answer": "vediamo",
+        "translation": "We often see our neighbors.",
+        "audio": "154_Noi_vediamo_spesso_i_nostri_vicini.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Voi {input} (andare) al parco nel pomeriggio.",
+        "answer": "andate",
+        "translation": "You all go to the park in the afternoon.",
+        "audio": "155_Voi_andate_al_parco_nel_pomeriggio.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Loro {input} (leggere) libri di storia.",
+        "answer": "leggono",
+        "translation": "They read history books.",
+        "audio": "156_Loro_leggono_libri_di_storia.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Io {input} (potere) fare il lavoro da solo.",
+        "answer": "posso",
+        "translation": "I can do the work alone.",
+        "audio": "157_Io_posso_fare_il_lavoro_da_solo.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Tu {input} (bere) solo acqua minerale.",
+        "answer": "bevi",
+        "translation": "You only drink mineral water.",
+        "audio": "158_Tu_bevi_solo_acqua_minerale.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Lui {input} (dire) che è contento.",
+        "answer": "dice",
+        "translation": "He says he is happy.",
+        "audio": "159_Lui_dice_che_è_contento.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Lei {input} (volere) un gatto.",
+        "answer": "vuole",
+        "translation": "She wants a cat.",
+        "audio": "160_Lei_vuole_un_gatto.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Noi {input} (dare) sempre il massimo.",
+        "answer": "diamo",
+        "translation": "We always give our best.",
+        "audio": "161_Noi_diamo_sempre_il_massimo.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Voi {input} (sapere) guidare bene.",
+        "answer": "sapete",
+        "translation": "You all know how to drive well.",
+        "audio": "162_Voi_sapete_guidare_bene.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Loro {input} (dire) che è interessante.",
+        "answer": "dicono",
+        "translation": "They say it's interesting.",
+        "audio": "163_Loro_dicono_che_è_interessante.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Io {input} (andare) a fare la spesa.",
+        "answer": "vado",
+        "translation": "I go grocery shopping.",
+        "audio": "164_Io_vado_a_fare_la_spesa.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Tu {input} (leggere) il libro ogni sera.",
+        "answer": "leggi",
+        "translation": "You read the book every evening.",
+        "audio": "165_Tu_leggi_il_libro_ogni_sera.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Lui {input} (scrivere) un diario ogni giorno.",
+        "answer": "scrive",
+        "translation": "He writes a diary every day.",
+        "audio": "166_Lui_scrive_un_diario_ogni_giorno.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Lei {input} (venire) sempre con noi.",
+        "answer": "viene",
+        "translation": "She always comes with us.",
+        "audio": "167_Lei_viene_sempre_con_noi.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Noi {input} (sapere) cucinare molti piatti.",
+        "answer": "sappiamo",
+        "translation": "We know how to cook many dishes.",
+        "audio": "168_Noi_sappiamo_cucinare_molti_piatti.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Voi {input} (fare) una passeggiata dopo cena.",
+        "answer": "fate",
+        "translation": "You all take a walk after dinner.",
+        "audio": "169_Voi_fate_una_passeggiata_dopo_cena.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Loro {input} (bere) tè verde.",
+        "answer": "bevono",
+        "translation": "They drink green tea.",
+        "audio": "170_Loro_bevono_tè_verde.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Io {input} (volere) imparare a suonare il violino.",
+        "answer": "voglio",
+        "translation": "I want to learn to play the violin.",
+        "audio": "171_Io_voglio_imparare_a_suonare_il_violino.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Tu {input} (sapere) organizzare tutto bene.",
+        "answer": "sai",
+        "translation": "You know how to organize everything well.",
+        "audio": "172_Tu_sai_organizzare_tutto_bene.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Lui {input} (venire) a casa mia spesso.",
+        "answer": "viene",
+        "translation": "He often comes to my house.",
+        "audio": "173_Lui_viene_a_casa_mia_spesso.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Lei {input} (fare) un corso di cucina.",
+        "answer": "fa",
+        "translation": "She takes a cooking class.",
+        "audio": "174_Lei_fa_un_corso_di_cucina.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Noi {input} (dare) aiuto ai nostri amici.",
+        "answer": "diamo",
+        "translation": "We give help to our friends.",
+        "audio": "175_Noi_diamo_aiuto_ai_nostri_amici.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Voi {input} (bere) birra al bar.",
+        "answer": "bevete",
+        "translation": "You all drink beer at the bar.",
+        "audio": "176_Voi_bevete_birra_al_bar.mp3"
+    },
+    {
+        "id": 177,
+        "prompt": "Loro {input} (vedere) il mondo in modo positivo.",
+        "answer": "vedono",
+        "translation": "They see the world in a positive way.",
+        "audio": "177_Loro_vedono_il_mondo_in_modo_positivo.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Io {input} (volere) leggere quel libro.",
+        "answer": "voglio",
+        "translation": "I want to read that book.",
+        "audio": "178_Io_voglio_leggere_quel_libro.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Tu {input} (leggere) ogni sera prima di dormire.",
+        "answer": "leggi",
+        "translation": "You read every evening before sleeping.",
+        "audio": "179_Tu_leggi_ogni_sera_prima_di_dormire.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Lui {input} (sapere) molte cose interessanti.",
+        "answer": "sa",
+        "translation": "He knows many interesting things.",
+        "audio": "180_Lui_sa_molte_cose_interessanti.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Lei {input} (dare) lezioni di danza.",
+        "answer": "dà",
+        "translation": "She gives dance lessons.",
+        "audio": "181_Lei_dà_lezioni_di_danza.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Noi {input} (fare) una gita nel weekend.",
+        "answer": "facciamo",
+        "translation": "We take a trip on the weekend.",
+        "audio": "182_Noi_facciamo_una_gita_nel_weekend.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Voi {input} (sapere) rispondere a tutte le domande.",
+        "answer": "sapete",
+        "translation": "You all know how to answer all the questions.",
+        "audio": "183_Voi_sapete_rispondere_a_tutte_le_domande.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Loro {input} (dire) sempre la verità.",
+        "answer": "dicono",
+        "translation": "They always tell the truth.",
+        "audio": "184_Loro_dicono_sempre_la_verità.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Io {input} (andare) a lavorare in bicicletta.",
+        "answer": "vado",
+        "translation": "I go to work by bicycle.",
+        "audio": "185_Io_vado_a_lavorare_in_bicicletta.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Tu {input} (venire) con noi al concerto.",
+        "answer": "vieni",
+        "translation": "You come with us to the concert.",
+        "audio": "186_Tu_vieni_con_noi_al_concerto.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Lui {input} (sapere) cucinare piatti deliziosi.",
+        "answer": "sa",
+        "translation": "He knows how to cook delicious dishes.",
+        "audio": "187_Lui_sa_cucinare_piatti_deliziosi.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Lei {input} (volere) aprire un negozio.",
+        "answer": "vuole",
+        "translation": "She wants to open a shop.",
+        "audio": "188_Lei_vuole_aprire_un_negozio.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Noi {input} (dare) molta importanza alla famiglia.",
+        "answer": "diamo",
+        "translation": "We give a lot of importance to family.",
+        "audio": "189_Noi_diamo_molta_importanza_alla_famiglia.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Voi {input} (leggere) libri di fantascienza.",
+        "answer": "leggete",
+        "translation": "You all read science fiction books.",
+        "audio": "190_Voi_leggete_libri_di_fantascienza.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Loro {input} (fare) molte attività fisiche.",
+        "answer": "fanno",
+        "translation": "They do many physical activities.",
+        "audio": "191_Loro_fanno_molte_attività_fisiche.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Io {input} (potere) parlare con te dopo cena.",
+        "answer": "posso",
+        "translation": "I can talk to you after dinner.",
+        "audio": "192_Io_posso_parlare_con_te_dopo_cena.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Tu {input} (bere) sempre il caffè al mattino.",
+        "answer": "bevi",
+        "translation": "You always drink coffee in the morning.",
+        "audio": "193_Tu_bevi_sempre_il_caffè_al_mattino.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Lui {input} (dire) che vuole cambiare lavoro.",
+        "answer": "dice",
+        "translation": "He says he wants to change jobs.",
+        "audio": "194_Lui_dice_che_vuole_cambiare_lavoro.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Lei {input} (volere) imparare a suonare il piano.",
+        "answer": "vuole",
+        "translation": "She wants to learn to play the piano.",
+        "audio": "195_Lei_vuole_imparare_a_suonare_il_piano.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Noi {input} (sapere) come raggiungere l'obiettivo.",
+        "answer": "sappiamo",
+        "translation": "We know how to reach the goal.",
+        "audio": "196_Noi_sappiamo_come_raggiungere_l'obiettivo.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Voi {input} (fare) sempre nuove esperienze.",
+        "answer": "fate",
+        "translation": "You all always have new experiences.",
+        "audio": "197_Voi_fate_sempre_nuove_esperienze.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Loro {input} (bere) molto latte.",
+        "answer": "bevono",
+        "translation": "They drink a lot of milk.",
+        "audio": "198_Loro_bevono_molto_latte.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Io {input} (andare) al cinema ogni mese.",
+        "answer": "vado",
+        "translation": "I go to the cinema every month.",
+        "audio": "199_Io_vado_al_cinema_ogni_mese.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Tu {input} (leggere) sempre le notizie online.",
+        "answer": "leggi",
+        "translation": "You always read the news online.",
+        "audio": "200_Tu_leggi_sempre_le_notizie_online.mp3"
+    },
+
+    {
+        "id": 201,
+        "prompt": "Io {input} (venire) ogni giorno.",
+        "answer": "vengo",
+        "translation": "I come every day.",
+        "audio": "201_Io_vengo_ogni_giorno.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Tu {input} (essere) molto forte.",
+        "answer": "sei",
+        "translation": "You are very strong.",
+        "audio": "202_Tu_sei_molto_forte.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Lui {input} (avere) un nuovo cane.",
+        "answer": "ha",
+        "translation": "He has a new dog.",
+        "audio": "203_Lui_ha_un_nuovo_cane.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Lei {input} (essere) una ballerina talentuosa.",
+        "answer": "è",
+        "translation": "She is a talented dancer.",
+        "audio": "204_Lei_è_una_ballerina_talentuosa.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Noi {input} (avere) una nuova casa.",
+        "answer": "abbiamo",
+        "translation": "We have a new house.",
+        "audio": "205_Noi_abbiamo_una_nuova_casa.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Voi {input} (essere) molto bravi.",
+        "answer": "siete",
+        "translation": "You all are very good.",
+        "audio": "206_Voi_siete_molto_bravi.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Loro {input} (avere) un appartamento in città.",
+        "answer": "hanno",
+        "translation": "They have an apartment in the city.",
+        "audio": "207_Loro_hanno_un_appartamento_in_città.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Io {input} (andare) al supermercato.",
+        "answer": "vado",
+        "translation": "I go to the supermarket.",
+        "audio": "208_Io_vado_al_supermercato.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Tu {input} (fare) un lavoro eccellente.",
+        "answer": "fai",
+        "translation": "You do an excellent job.",
+        "audio": "209_Tu_fai_un_lavoro_eccellente.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Lui {input} (dire) sempre cose interessanti.",
+        "answer": "dice",
+        "translation": "He always says interesting things.",
+        "audio": "210_Lui_dice_sempre_cose_interessanti.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Lei {input} (sapere) nuotare molto bene.",
+        "answer": "sa",
+        "translation": "She knows how to swim very well.",
+        "audio": "211_Lei_sa_nuotare_molto_bene.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Noi {input} (dare) il nostro meglio.",
+        "answer": "diamo",
+        "translation": "We give our best.",
+        "audio": "212_Noi_diamo_il_nostro_meglio.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Voi {input} (venire) spesso in questo ristorante.",
+        "answer": "venite",
+        "translation": "You all often come to this restaurant.",
+        "audio": "213_Voi_venite_spesso_in_questo_ristorante.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Loro {input} (fare) sempre una buona impressione.",
+        "answer": "fanno",
+        "translation": "They always make a good impression.",
+        "audio": "214_Loro_fanno_sempre_una_buona_impressione.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Io {input} (bere) tè verde ogni mattina.",
+        "answer": "bevo",
+        "translation": "I drink green tea every morning.",
+        "audio": "215_Io_bevo_tè_verde_ogni_mattina.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Tu {input} (venire) a casa mia ogni fine settimana.",
+        "answer": "vieni",
+        "translation": "You come to my house every weekend.",
+        "audio": "216_Tu_vieni_a_casa_mia_ogni_fine_settimana.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Lui {input} (vedere) tutto ciò che accade.",
+        "answer": "vede",
+        "translation": "He sees everything that happens.",
+        "audio": "217_Lui_vede_tutto_ciò_che_accade.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Lei {input} (volere) una nuova macchina fotografica.",
+        "answer": "vuole",
+        "translation": "She wants a new camera.",
+        "audio": "218_Lei_vuole_una_nuova_macchina_fotografica.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Noi {input} (sapere) cucinare la pasta perfetta.",
+        "answer": "sappiamo",
+        "translation": "We know how to cook the perfect pasta.",
+        "audio": "219_Noi_sappiamo_cucinare_la_pasta_perfetta.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Voi {input} (dire) sempre la verità.",
+        "answer": "dite",
+        "translation": "You all always tell the truth.",
+        "audio": "220_Voi_dite_sempre_la_verità.mp3"
+    },
+    {
+        "id": 221,
+        "prompt": "Loro {input} (venire) sempre a trovarci.",
+        "answer": "vengono",
+        "translation": "They always come to visit us.",
+        "audio": "221_Loro_vengono_sempre_a_trovarci.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Io {input} (leggere) riviste di moda.",
+        "answer": "leggo",
+        "translation": "I read fashion magazines.",
+        "audio": "222_Io_leggo_riviste_di_moda.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Tu {input} (scrivere) ogni giorno nel tuo diario.",
+        "answer": "scrivi",
+        "translation": "You write every day in your diary.",
+        "audio": "223_Tu_scrivi_ogni_giorno_nel_tuo_diario.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Lui {input} (dare) lezioni di matematica.",
+        "answer": "dà",
+        "translation": "He gives math lessons.",
+        "audio": "224_Lui_dà_lezioni_di_matematica.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Lei {input} (vedere) le stelle ogni notte.",
+        "answer": "vede",
+        "translation": "She sees the stars every night.",
+        "audio": "225_Lei_vede_le_stelle_ogni_notte.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Noi {input} (andare) al mare ogni estate.",
+        "answer": "andiamo",
+        "translation": "We go to the sea every summer.",
+        "audio": "226_Noi_andiamo_al_mare_ogni_estate.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Voi {input} (bere) succhi di frutta.",
+        "answer": "bevete",
+        "translation": "You all drink fruit juices.",
+        "audio": "227_Voi_bevete_succhi_di_frutta.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Loro {input} (fare) molti amici facilmente.",
+        "answer": "fanno",
+        "translation": "They make many friends easily.",
+        "audio": "228_Loro_fanno_molti_amici_facilmente.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Io {input} (volere) diventare un artista.",
+        "answer": "voglio",
+        "translation": "I want to become an artist.",
+        "audio": "229_Io_voglio_diventare_un_artista.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Tu {input} (sapere) risolvere ogni problema.",
+        "answer": "sai",
+        "translation": "You know how to solve every problem.",
+        "audio": "230_Tu_sai_risolvere_ogni_problema.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Lui {input} (venire) spesso da noi.",
+        "answer": "viene",
+        "translation": "He often comes to us.",
+        "audio": "231_Lui_viene_spesso_da_noi.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Lei {input} (fare) una passeggiata ogni sera.",
+        "answer": "fa",
+        "translation": "She takes a walk every evening.",
+        "audio": "232_Lei_fa_una_passeggiata_ogni_sera.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Noi {input} (andare) al cinema insieme.",
+        "answer": "andiamo",
+        "translation": "We go to the cinema together.",
+        "audio": "233_Noi_andiamo_al_cinema_insieme.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Voi {input} (leggere) libri interessanti.",
+        "answer": "leggete",
+        "translation": "You all read interesting books.",
+        "audio": "234_Voi_leggete_libri_interessanti.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Loro {input} (vedere) il mondo con occhi diversi.",
+        "answer": "vedono",
+        "translation": "They see the world with different eyes.",
+        "audio": "235_Loro_vedono_il_mondo_con_occhi_diversi.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Io {input} (potere) aiutarti a studiare.",
+        "answer": "posso",
+        "translation": "I can help you study.",
+        "audio": "236_Io_posso_aiutarti_a_studiare.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Tu {input} (bere) latte caldo la sera.",
+        "answer": "bevi",
+        "translation": "You drink warm milk in the evening.",
+        "audio": "237_Tu_bevi_latte_caldo_la_sera.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Lui {input} (dire) che è innamorato.",
+        "answer": "dice",
+        "translation": "He says he is in love.",
+        "audio": "238_Lui_dice_che_è_innamorato.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Lei {input} (volere) imparare a cucinare piatti esotici.",
+        "answer": "vuole",
+        "translation": "She wants to learn how to cook exotic dishes.",
+        "audio": "239_Lei_vuole_imparare_a_cucinare_piatti_esotici.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Noi {input} (dare) regali a tutti.",
+        "answer": "diamo",
+        "translation": "We give gifts to everyone.",
+        "audio": "240_Noi_diamo_regali_a_tutti.mp3"
+    },
+    {
+        "id": 241,
+        "prompt": "Voi {input} (sapere) organizzare eventi benissimo.",
+        "answer": "sapete",
+        "translation": "You all know how to organize events very well.",
+        "audio": "241_Voi_sapete_organizzare_eventi_benissimo.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Loro {input} (dire) che è importante.",
+        "answer": "dicono",
+        "translation": "They say it's important.",
+        "audio": "242_Loro_dicono_che_è_importante.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Io {input} (andare) a fare shopping.",
+        "answer": "vado",
+        "translation": "I go shopping.",
+        "audio": "243_Io_vado_a_fare_shopping.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Tu {input} (leggere) sempre libri di avventura.",
+        "answer": "leggi",
+        "translation": "You always read adventure books.",
+        "audio": "244_Tu_leggi_sempre_libri_di_avventura.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Lui {input} (scrivere) un blog di viaggi.",
+        "answer": "scrive",
+        "translation": "He writes a travel blog.",
+        "audio": "245_Lui_scrive_un_blog_di_viaggi.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Lei {input} (venire) a fare jogging ogni mattina.",
+        "answer": "viene",
+        "translation": "She comes jogging every morning.",
+        "audio": "246_Lei_viene_a_fare_jogging_ogni_mattina.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Noi {input} (sapere) come risparmiare denaro.",
+        "answer": "sappiamo",
+        "translation": "We know how to save money.",
+        "audio": "247_Noi_sappiamo_come_risparmiare_denaro.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Voi {input} (fare) sempre le cose per bene.",
+        "answer": "fate",
+        "translation": "You all always do things right.",
+        "audio": "248_Voi_fate_sempre_le_cose_per_bene.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Loro {input} (bere) solo acqua naturale.",
+        "answer": "bevono",
+        "translation": "They drink only natural water.",
+        "audio": "249_Loro_bevono_solo_acqua_naturale.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Io {input} (volere) diventare un insegnante.",
+        "answer": "voglio",
+        "translation": "I want to become a teacher.",
+        "audio": "250_Io_voglio_diventare_un_insegnante.mp3"
+    }
+]
